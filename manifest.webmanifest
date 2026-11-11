@@ -1,0 +1,9 @@
+{
+  "name": "VaultKey Personal Encryption Tool",
+  "short_name": "VaultKey",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "description": "Local-first personal encryption tool"
+}
